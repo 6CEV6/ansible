@@ -1,0 +1,1 @@
+- hosts: localhost stają się: true tasks: - name: Zainstaluj htop apt: name = htop
